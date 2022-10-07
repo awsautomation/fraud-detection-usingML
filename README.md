@@ -84,8 +84,12 @@ We cite the following works:
     * Files that are used to automatically test the solution
 
 
-## License
-
-This project is licensed under the Apache-2.0 License.
+1. What problem are you addressing with your project?(Development Field)
+2. Please describe the technologies being used in your project.(Development Field)
+3. Round 1 - Submit your Elevator Pitch Attachments(Development Field)
+4. Round 1 - Submit your Elevator Pitch Links or Additional Information(Development Field)
+5. Round 1 - Additional Attachments(Development Field)
+6. I acknowledge that I have read and understood the Participant Terms *Yes
+7. I acknowledge that I have submitted Round 1 files as per the TIH2022 guidelines.(Development Field)
 
 
